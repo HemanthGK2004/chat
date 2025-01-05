@@ -49,12 +49,3 @@ Deploy your custom chatbot to **Vercel** in just a few clicks:
 2. Use [Vercel Environment Variables](https://vercel.com/docs/projects/environment-variables) to store secrets securely.
 
 ---
-
-## Running Locally
-
-To run the template on your local machine, follow these steps:
-
-### Setup Instructions:
-1. Install the Vercel CLI:
-   ```bash
-   npm i -g vercel
